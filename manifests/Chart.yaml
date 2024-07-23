@@ -1,0 +1,3 @@
+apiVersion: v2
+name: harnessdemo
+description: A Helm chart for Kubernetes
