@@ -24,6 +24,6 @@ serviceTargetPort: 3000
 # Both are added to the container environment in podSpec as envFrom source.  
 env:  
   config:  
-    ENVIRONMENT:  <+serviceVariables.ENVIRONMENT>  
+    ENVIRONMENT:  UNSET  
   secrets:  
     key2: value2
