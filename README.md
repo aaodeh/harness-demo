@@ -8,10 +8,13 @@ Here are a few instructions to help you get started for the harness CD pipelines
 
    `k3d cluster create mycluster --api-port 6550 -p "8081:80@loadbalancer"`
 
-4. Fork this repo you will need the helm chart for the demo
-5. You can also find the slides for demo in this repo as well
-6. We will use the following container in the demo 
+4. Fork this repo before you attend the demo you will find the following resources
+   
+   - helm chart for our harness service
+   - slides for the demo
+
+5. Verify you can access the the following image of our demo app in DockerHub registry
 
     `odeh/demo-env-node-app`
     
-7. You are now ready to follow along with the demo
+6. You are now ready to follow along with the demo!
