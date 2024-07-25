@@ -1,4 +1,6 @@
-# ![image](https://github.com/user-attachments/assets/25b34249-41d0-46fd-b418-c8fe68e0d243) harness pipelines 101
+![image](https://github.com/user-attachments/assets/94964a76-d277-4ca0-9273-ab8727d632a8)
+
+# harness pipelines 101
 
 Here are a few instructions to help you prepare for the harness CD pipelines demo
 
