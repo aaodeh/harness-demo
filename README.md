@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/94964a76-d277-4ca0-9273-ab8727d632a8)
-
-<img src="[http://....jpg](https://github.com/user-attachments/assets/94964a76-d277-4ca0-9273-ab8727d632a8)" width="200" height="200" />
-
 # harness pipelines 101
 
 Here are a few instructions to help you prepare for the harness CD pipelines demo
