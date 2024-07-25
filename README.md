@@ -1,6 +1,6 @@
 # harness pipelines 101
 
-Here are a few instructions to help you get started for the harness CD pipelines demo
+Here are a few instructions to help you prepare for the harness CD pipelines demo
 
 1. Install Docker Desktop: https://www.docker.com/products/docker-desktop/
 2. Install k3d: https://k3d.io/v5.7.2/
