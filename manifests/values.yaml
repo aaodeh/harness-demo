@@ -5,7 +5,7 @@ image: <+artifact.image>
 # dockercfg: <+artifact.imagePullSecret>  
   
 createNamespace: true  
-namespace: <+infra.namespace>-<+env.name>  
+namespace: <+env.name>  
 infra: <+env.name>  
   
 # Service Type allow you to specify what kind of service you want.  
